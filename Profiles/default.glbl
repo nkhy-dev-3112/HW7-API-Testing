@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI4MmVlYTQwMi04ZDU2LTQ0MjctOTIxNC0wNjdhYThjMzFlMmYiLCJyb2xlcyI6WyJTVVBFUl9BRE1JTiJdLCJuYW1lIjoibmtoeTIxQGNsYy5maXR1cy5lZHUudm4iLCJlbWFpbGFkZHJlc3MiOiJua2h5MjFAY2xjLmZpdHVzLmVkdS52biIsIm5hbWVpZGVudGlmaWVyIjoibmtoeTIxQGNsYy5maXR1cy5lZHUudm4iLCJpc3MiOiJNZW50b3JVUy1sb2NhbCIsImlhdCI6MTcyNDMwODcyOCwiZXhwIjoxNzI2OTAwNzI4fQ.2e8Vhq_O6gQejDpWfqJqVvCnke9u1BO_UbMBHZ5Cqartoy8E_713unEAOSVfjBCKyIlKeyWvk-CI3q7nsbVo_Q'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

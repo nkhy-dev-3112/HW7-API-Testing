@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>API 02</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a42db260-d812-47f7-b6bb-1826d4c11252</testSuiteGuid>
+   <testCaseLink>
+      <guid>8c49483b-93fc-45ae-8891-728c269b3436</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API-02 Create FAQs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bcee61a2-9f8b-4b14-b1f5-4839551515e3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Create FAQs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>index</value>
+         <variableId>87ecbb1a-495c-41c9-a0e3-226128d4993f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>type</value>
+         <variableId>065aed23-3fa6-4e75-90e7-6feaa9d93e61</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>question</value>
+         <variableId>2dc8ff0f-7bd1-48c9-b53b-4db1e1a24ba6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>answer</value>
+         <variableId>e595b382-7b23-4eea-8075-c5300ff0acba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>groupId</value>
+         <variableId>a3d10b2f-030e-4fff-a30e-2e6f2a738766</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>id</value>
+         <variableId>679241f7-58bf-4987-862d-3c7be6e70110</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bcee61a2-9f8b-4b14-b1f5-4839551515e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>expectedCode</value>
+         <variableId>72047ab5-c15c-4bfb-8f31-4e090943962b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
